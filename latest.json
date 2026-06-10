@@ -1,15 +1,15 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "Download the .msi below to install. Existing installs update automatically.",
-  "pub_date": "2026-06-09T01:24:52.894Z",
+  "pub_date": "2026-06-10T01:35:50.018Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTREI3cnI0aWZFOEFMdzh2Vmp0b2J3Z0FkVWF3KzRuOCtBNmhZLzdsYVo3TGU3NmR5aXpDRjNCZHVhMkdVUFU0cDVvamh0ZklXaFM4SndzRTdVMm9USnFxWnkrdkE2RGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY4MjkwCWZpbGU6RmFibGFfMC4xLjVfeDY0X2VuLVVTLm1zaQpnaWp4TTlhUHhSM09YR2NMRVl6dXlVYWt5K0lxc2xJd1cweXJ5V2g5VTRYeTdkZHNTNWd2WVlpQkFPMFpBK0tNVHBOdnFYTTMwV25UdWV1VnNVaTFCZz09Cg==",
-      "url": "https://github.com/amoviestar/fabla-releases/releases/download/v0.1.5/Fabla_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTREI3cnI0aWZFOEw2OEIzMmI3SEYwNTRNN2EwYkNQeE4xK2lMd2czZmszL1lEMVRlV2dFd1BReWFkRzdUS2VSUUtpck54dVJMTHlhVnJJWjNOZldtb2Nnekpma2RjZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDU1MzQ3CWZpbGU6RmFibGFfMC4xLjZfeDY0X2VuLVVTLm1zaQphSlZxYmxOVDc5WUkza1JKNWt2cnhuajRhZ09RSStrYkxxeTVGS2JTc05LN1lyUEsrV25qWjFDT0Fib1dIeHFYbkJud2ZIZ0lOU1B2Mlgwd2VqZHRDZz09Cg==",
+      "url": "https://github.com/amoviestar/fabla-releases/releases/download/v0.1.6/Fabla_0.1.6_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTREI3cnI0aWZFOEFMdzh2Vmp0b2J3Z0FkVWF3KzRuOCtBNmhZLzdsYVo3TGU3NmR5aXpDRjNCZHVhMkdVUFU0cDVvamh0ZklXaFM4SndzRTdVMm9USnFxWnkrdkE2RGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY4MjkwCWZpbGU6RmFibGFfMC4xLjVfeDY0X2VuLVVTLm1zaQpnaWp4TTlhUHhSM09YR2NMRVl6dXlVYWt5K0lxc2xJd1cweXJ5V2g5VTRYeTdkZHNTNWd2WVlpQkFPMFpBK0tNVHBOdnFYTTMwV25UdWV1VnNVaTFCZz09Cg==",
-      "url": "https://github.com/amoviestar/fabla-releases/releases/download/v0.1.5/Fabla_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTREI3cnI0aWZFOEw2OEIzMmI3SEYwNTRNN2EwYkNQeE4xK2lMd2czZmszL1lEMVRlV2dFd1BReWFkRzdUS2VSUUtpck54dVJMTHlhVnJJWjNOZldtb2Nnekpma2RjZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDU1MzQ3CWZpbGU6RmFibGFfMC4xLjZfeDY0X2VuLVVTLm1zaQphSlZxYmxOVDc5WUkza1JKNWt2cnhuajRhZ09RSStrYkxxeTVGS2JTc05LN1lyUEsrV25qWjFDT0Fib1dIeHFYbkJud2ZIZ0lOU1B2Mlgwd2VqZHRDZz09Cg==",
+      "url": "https://github.com/amoviestar/fabla-releases/releases/download/v0.1.6/Fabla_0.1.6_x64_en-US.msi"
     }
   }
 }
